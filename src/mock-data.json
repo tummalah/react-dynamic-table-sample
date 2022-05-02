@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "fullName": "Vijay Chaganti",
+    "address": "richmond",
+    "phoneNumber": "999-999-9999",
+    "email": "vijay@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "krishna reddy",
+    "address": "glen allen",
+    "phoneNumber": "111-111-1111",
+    "email": "krishna@email.com"
+  }
+  
+]
